@@ -1,0 +1,8 @@
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.deps.json
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.pdb
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.AssemblyInfo.cs
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.CrossCutting.pdb

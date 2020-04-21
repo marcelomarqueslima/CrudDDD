@@ -1,0 +1,14 @@
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.deps.json
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.runtimeconfig.json
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.runtimeconfig.dev.json
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.pdb
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\CrudDDD.Domain.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\CrudDDD.Domain.pdb
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.csprojAssemblyReference.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.AssemblyInfo.cs
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.csproj.CopyComplete
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\CrudDDD.Infrastructure.Data.pdb

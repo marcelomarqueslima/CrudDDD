@@ -1,0 +1,9 @@
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\bin\Debug\netcoreapp2.2\CrudDDD.Domain.deps.json
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\bin\Debug\netcoreapp2.2\CrudDDD.Domain.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\bin\Debug\netcoreapp2.2\CrudDDD.Domain.pdb
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\obj\Debug\netcoreapp2.2\CrudDDD.Domain.csprojAssemblyReference.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\obj\Debug\netcoreapp2.2\CrudDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\obj\Debug\netcoreapp2.2\CrudDDD.Domain.AssemblyInfoInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\obj\Debug\netcoreapp2.2\CrudDDD.Domain.AssemblyInfo.cs
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\obj\Debug\netcoreapp2.2\CrudDDD.Domain.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\CrudDDD\CrudDDD\CrudDDD.Domain\obj\Debug\netcoreapp2.2\CrudDDD.Domain.pdb
